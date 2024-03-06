@@ -1,15 +1,15 @@
 {
     "default_env": "",
     "us_sandbox":{
-        "username" : "",
-        "password" : "",
+        "username" : "sgovindakrishnan+uspsbx@zuora.com",
+        "password" : "Master@00",
         "oauth_token" : "",
         "rsa_signature": "/v1/rsa-signatures",
         "zuora_base_url": "https://rest.apisandbox.zuora.com",
         "payment_page_url": "https://apisandbox.zuora.com/apps/PublicHostedPageLite.do",
-        "pageId": "",
-        "accountId":"",
-        "publicKey": ""
+        "pageId": "8ad08ad58e0fb5f4018e12be18267d20",
+        "accountId":"8ad08e1a87755a500187768a67f36cda",
+        "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnQ+qI69WymtUwav1tWzt164RssNuiNb72Lq+4Ya6wXpOazLm5ZCDojTfC6RrJkCd3Vmy/TTYQzC3uxBDRfX7igNSK3fkVuQP2gS15y1GeNMsGDFCX8OoD4jt4S+O1vni3sNtZRVQpZeU2rcxBaqiaj8fShyt07FyGEZVqb/9fQ9Jc67Dw19jiZPQ4/LGrjxotBKIHx3VmD7Cd9qbyiDpsC+fTDMwa5gz6B4CE4x62/DlDIUFb74eVdIJkmnUWkLwb9/Jpy1W28ZEB4+9HNsesbtnne1SpyWUC4Nv6qgnH5/GP1XNjYKUNGxi/JpvpZBvKiC/M0YX9SlnFb/QPPkwgQIDAQAB"
     },
     "eu_sandbox":{
         "username" : "",
